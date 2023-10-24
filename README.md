@@ -1,6 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS.
+![Screenshot](Screenshot.jpg)
+
+## Introduction
+HILINK a feature-rich travel app with Next.js 13 and Tailwind CSS, covering everything from a sleek UI to mobile-first best practices.
+
+## Features: 
+- An appealing hero section
+- A camp section featuring various camps to explore
+- An engaging travel guide section
+- A complex feature-rich section
+- A call to action section for mobile apps
+- And a big footer section with many site and social links
+
+## Implementation:
+- implement Next.js 13 most modern best practices
+- improve your code architecture and make your components reusable
+- utilize Tailwind CSS
+- start with the mobile-first approach for maximum responsiveness
+- make use of TypeScript
+- and many more best practices that set you apart in the industry
+
+ Learn from:
+  ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
