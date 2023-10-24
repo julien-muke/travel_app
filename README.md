@@ -2,7 +2,7 @@
 ![Screenshot](Screenshot.jpg)
 
 ## Introduction
-HILINK a feature-rich travel app with Next.js 13 and Tailwind CSS, covering everything from a sleek UI to mobile-first best practices.
+HiLinK is a feature-rich travel app with Next.js 13 and Tailwind CSS, covering everything from a sleek UI to mobile-first best practices.
 
 ## Features: 
 - An appealing hero section
